@@ -30,9 +30,10 @@ body{
   font-weight: 700;
   color: white;
    }
-   p{
+  .description{
     color: white;
     padding: 2%;
+    margin-bottom: 20px;
    }
 .background-image{
     background-image: url(images/flood-5.jpg);
@@ -43,4 +44,12 @@ body{
     padding: 5%;
 
     height: 100vh;
+}
+
+.Donate-Today{
+    margin-top: 50px;
+    text-align: center;
+}
+.taka{
+    display: flex;
 }
