@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.help{
+    text-align: center;
+    padding-top: 0%;
+    margin: 0;
+    color:white;
+    font-size: 60px;
+    font-weight: bold;
+    
+}
+.need{
+    text-align: center;
+    color:white;
+    font-size: 60px;
+}
+.link-button{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    background-image:linear-gradient(orange,red) ;
+  text-decoration: none;
+  background-color: coral;
+  padding: 10px 40px;
+  border-radius: 20px;
+  font-weight: 700;
+  color: white;
+   }
+   p{
+    color: white;
+    padding: 2%;
+   }
+.background-image{
+    background-image: url(images/flood-5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1440;
+    margin: 0%;
+    padding: 5%;
+
+    height: 100vh;
+}
