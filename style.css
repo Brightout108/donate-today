@@ -1,42 +1,46 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
     font-family: 'PT Serif', serif;
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-.help{
+.help {
     text-align: center;
     padding-top: 0%;
     margin: 0;
-    color:white;
+    color: white;
     font-size: 60px;
     font-weight: bold;
-    
+
 }
-.need{
+
+.need {
     text-align: center;
-    color:white;
+    color: white;
     font-size: 60px;
 }
-.link-button{
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    background-image:linear-gradient(orange,red) ;
-  text-decoration: none;
-  background-color: coral;
-  padding: 10px 40px;
-  border-radius: 20px;
-  font-weight: 700;
-  color: white;
-   }
-  .description{
+
+.link-button {
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+     background-image: linear-gradient(orange, red);
+    text-decoration: none;
+    background-color: coral;
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.description {
     color: white;
     padding: 2%;
     margin-bottom: 20px;
-   }
-.background-image{
-    background-image: url(images/flood-5.jpg);
+}
+
+.background-image {
+    background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     width: 1440;
@@ -46,10 +50,62 @@ body{
     height: 100vh;
 }
 
-.Donate-Today{
+.Donate-Today {
     margin-top: 50px;
     text-align: center;
 }
-.taka{
+
+
+
+/* part-2 */
+
+.box{
     display: flex;
+    padding: 5px;
+    margin-right: 20px;
+   
+    
+    
+}
+
+.box-shadow{
+    font-size: 32px;
+    color: grey;
+    margin-right: 20px;
+    padding: 40px 25px;
+    background-color: #f9f9f9;
+   
+    
+   
+}
+.box-shadow-red{
+    background-color:;
+    color: rgb(240, 50, 16);
+    font-size: 32px;
+    margin-right: 20px;
+    padding: 40px 25px;
+    background-color: rgb(248, 191, 181);
+    border-radius: 10px;
+
+}
+.other-Amount{
+    color: gray;
+    text-align: center;
+    text-decoration: none;
+}
+.horizontal{
+   color: gray; 
+
+}
+.button{
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+     background-image: linear-gradient(orange, red);
+    text-decoration: none;
+    background-color: coral;
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-weight: 700;
+    color: white;
 }
