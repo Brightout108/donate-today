@@ -2,6 +2,7 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'PT Serif', serif;
     font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
 }
 
 .help {
@@ -233,8 +234,8 @@ body {
     }
 
     .contribute{
-        margin-left: 40%;
-        margin-right: 40%;
+        margin-left: 24%;
+        margin-right: 20%;
         width: 40%;
          background-image: linear-gradient(orange, red);
         text-decoration: none;
@@ -290,3 +291,24 @@ body {
     margin-right: 20%;
     display: flex;
  }
+
+
+ /*footer-section*/
+
+ .footer{
+margin-top: 100px;
+    width: 20%;
+   background-color: rgb(32, 25, 25);
+    padding: 70px 490px;
+ }
+.humble{
+    text-align: center;
+    color: tomato;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.do{
+    text-align: center;
+    color: #f9f9f9; 
+    margin-left: 30%; 
+}
