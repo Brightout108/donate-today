@@ -21,7 +21,7 @@ body {
 }
 
 .link-button {
-    margin-left: 40%;
+    margin-left: 43%;
     margin-right: 40%;
     width: 20%;
      background-image: linear-gradient(orange, red);
@@ -201,19 +201,25 @@ body {
 
     .part-3{
         display: flex;
-        margin-top: 80px;
-        margin-right: 2%;
-        margin-left: 2%;
+        margin-bottom: 150px;
+        padding: 5px;
     }
 .lives-depend{
-                 margin-right: 20px;
-                 width: 40%;
+    width: 50%;
+    padding left: 5%;
                 }
     .donation10{
         width: 100px;
         height: 50px;
+        margin-top: 150px;
 
     }
+    
+     .donation10 img{
+        width: 500%;
+        
+     }
+    
     .Their-lives{
         font-size: 60px;
         font-weight: 700;
@@ -239,29 +245,48 @@ body {
         color: white;
     }
     
+/*part-4 baki*/
 
-    /*part-4*/
-    
-  .part-4{
-    display: flex;
-    margin-top: 80px;
-    margin-right: 2%;
-    margin-left: 2%;
-  }
-  .donation14{
-    width: 100px;
-    height: 50px;
-    margin: 20px;
+
+
+
+/*part-5*/
+   .update{
+        text-align: center;
+        font-size: 60px;
+        font-weight: 700;
+        color: rgb(32, 25, 25));
+    }
    
-
-  }
-  .srvive{
-    font-size: 60px;
-    font-weight: 700;
-    color: rgb(58, 55, 55);
-  }
-
-  .who{
+   .never-seen{
+    text-align: center;
+    padding-top: 0;
+    margin-bottom: 60px;
+    margin-left: 30%;
+    margin-right: 30%;
     color: gray;
-    font-size: 12px;
+    font-size: 15px;
+   }
+
+   .email{
+    padding:5px 20px;
+   background-color: lightgrey;
+   margin-left: 23%;
+   margin-right: ;
+   
+  
+   }
+  .subscribe{
+    padding:5px 15px;
+    background-color: tomato;
+    color: #f9f9f9;
+    
+    
   }
+ #email{
+    padding: 40px 50px;
+    background-color: tan;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+ }
